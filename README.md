@@ -5,15 +5,21 @@ University of Zurich (UZH), Switzerland*
 
 **This is the official repository for Tutorial 2 *Practical Introduction to Blockchain-based Remote Electronic Voting* presented at the [2020 IEEE International Conference on Blockchain and Cryptocurrency Conference](https://icbc2020.ieee-icbc.org/).**
 
+### Materials
+- Tutorial Slides *coming soon*
+- [Provotum 2.0 Code](https://github.com/christiankiller/master-project-evoting) 
+- [Provotum 2.0 Project Report](https://github.com/christiankiller/master-project-evoting/blob/master/assets/report.pdf)
+- [Crypto Library Dependency](https://github.com/meck93/evote-crypto/)
+
 ### Disclaimer
 - Even though the full tutorial code is dockerized, it takes (a) some Docker expertise and (b) sufficient RAM and CPU to make it run smoothly on Linux or Windows. 
 - Unfortunately, macOS is not supported
-- Thus, if you don't want to locally deploy it, simply follow the tutorial and read the code as you see fit.
+- Thus, **if you don't want to locally deploy it, simply follow the tutorial and [read the code](https://github.com/christiankiller/master-project-evoting) as you see fit.**
 - The practical part of the tutorial is [based on the code of Provotum 2.0](https://github.com/christiankiller/master-project-evoting), which was developed by [Moritz Eck](https://github.com/meck93), [Alex Scheitlin](https://github.com/alexscheitlin) and [Nik Zaugg](https://github.com/nikzaugg/) in the scope of their Master Project with the CSG@IfI.  
 
 ### Prerequisites
 - [Docker](https://docs.docker.com/)
-- Make sure you create a github.json with a valid access token, otherwise you won't be able to pull from GitHub packages
+- Make sure you create a [github.json](https://github.com/christiankiller/master-project-evoting#github-packages--github-config-json-important) with a valid access token, otherwise you won't be able to pull from GitHub packages
 
 ### Setting up a short demo election on your local OS
 1. ```git clone git@github.com:christiankiller/master-project-evoting.git```
