@@ -37,18 +37,18 @@ If everything is running smoothly so far, you can continue by following the tuto
 
 # References
 
-- [BT94] Josh Benaloh and Dwight Tuinstra. Receipt-Free Secret-Ballot Elections. In Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing, STOC ’94, pages544–553, New York,NY, USA,1994. Association for Computing Machinery. 
+- **[BT94]** Josh Benaloh and Dwight Tuinstra. Receipt-Free Secret-Ballot Elections. In Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing, STOC ’94, pages544–553, New York,NY, USA,1994. Association for Computing Machinery. 
 
-- [CGS97] Ronald Cramer, Rosario Gennaro, and Berry Schoenmakers. A secure andoptimally efficient multi- authority election scheme. InLecture Notes inComputer Science (including subseries Lecture Notes in Artificial Intelligenceand Lecture Notes in Bioinformatics), 1997.
+- **[CGS97]** Ronald Cramer, Rosario Gennaro, and Berry Schoenmakers. A secure andoptimally efficient multi- authority election scheme. InLecture Notes inComputer Science (including subseries Lecture Notes in Artificial Intelligenceand Lecture Notes in Bioinformatics), 1997.
 
-- [Cha81] David L. Chaum. Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms.Communications of the ACM, 1981.
+- **[Cha81]** David L. Chaum. Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms.Communications of the ACM, 1981.
 
-- [Cha04] David Chaum. Secret-Ballot Receipts: True Voter-Verifiable Elections,2004.CJR+10.David Chaum, Markus Jakobsson, Ronald L Rivest, Peter A Ryan, and JoshBenaloh, editors. Towards Trustworthy Elections: New Directions in ElectronicVoting. Springer-Verlag, Berlin, Heidelberg,2010. 
+- **[Cha04]** David Chaum. Secret-Ballot Receipts: True Voter-Verifiable Elections,2004.
 
-- [DH76] Whitfield Diffie and Martin E. Hellman. New Directions in Cryptography. IEEE Transactions on Information Theory, 1976.
+- **[DH76]** Whitfield Diffie and Martin E. Hellman. New Directions in Cryptography. IEEE Transactions on Information Theory, 1976.
 
-- [Elg85] T. Elgamal. A public key cryptosystem and a signature scheme based on discrete logarithms. IEEE Transactions on Information Theory, 31(4):469–472,71985.
+- **[Elg85]** T. Elgamal. A public key cryptosystem and a signature scheme based on discrete logarithms. IEEE Transactions on Information Theory, 31(4):469–472,71985.
 
-- [FOO92] Atsushi Fujioka, Tatsuaki Okamoto, and Kazuo Ohta. A Practical SecretVoting Scheme for Large Scale Elections. In Proceedings of the Workshop on the Theory and Application of Cryptographic Techniques: Advances in Cryptology, ASIACRYPT ’92, pages 244–251, Berlin, Heidelberg, 1992. Springer-Verlag.
+- **[FOO92]** Atsushi Fujioka, Tatsuaki Okamoto, and Kazuo Ohta. A Practical SecretVoting Scheme for Large Scale Elections. In Proceedings of the Workshop on the Theory and Application of Cryptographic Techniques: Advances in Cryptology, ASIACRYPT ’92, pages 244–251, Berlin, Heidelberg, 1992. Springer-Verlag.
 
-- [JCJ05] Ari Juels, Dario Catalano, and Markus Jakobsson. Coercion-ResistantElectronic Elections. InProceedings of the 2005 ACM Workshop on Privacy in the Electronic Society, WPES ’05, page 61–70, New York, NY, USA, 2005. Association for Computing Machinery.
+- **[JCJ05]** Ari Juels, Dario Catalano, and Markus Jakobsson. Coercion-ResistantElectronic Elections. InProceedings of the 2005 ACM Workshop on Privacy in the Electronic Society, WPES ’05, page 61–70, New York, NY, USA, 2005. Association for Computing Machinery.
