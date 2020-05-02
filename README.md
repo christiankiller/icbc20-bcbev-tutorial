@@ -6,7 +6,8 @@ University of Zurich (UZH), Switzerland*
 **This is the official repository for Tutorial 2 *Practical Introduction to Blockchain-based Remote Electronic Voting* presented at the [2020 IEEE International Conference on Blockchain and Cryptocurrency Conference](https://icbc2020.ieee-icbc.org/).**
 
 ### Materials
-- Tutorial Slides *coming soon*
+- [Tutorial Slides (PDF, 1-up)](/assets/ICBC20-BCBEV-Tutorial-v7.pdf)
+- [Tutorial Videos](/videos/)
 - [Provotum 2.0 Code](https://github.com/christiankiller/master-project-evoting) 
 - [Provotum 2.0 Project Report](https://github.com/christiankiller/master-project-evoting/blob/master/assets/report.pdf)
 - [Crypto Library Dependency](https://github.com/meck93/evote-crypto/)
