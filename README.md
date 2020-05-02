@@ -38,6 +38,12 @@ If everything is running smoothly so far, you can continue by following the tuto
 
 # References
 
+-**[KRM20]** C. Killer, B. Rodrigues, R. Matile, E. Scheid, B. Stiller: Design and Implementation of Cast-as-Intended Verifiability for a Blockchain-based Voting System. In: Proceedings of the 2020 ACM Symposium on Applied Computing. SAC ’20, Association for Computing Machinery, New York, NY, USA, 2020. Paper: http://bcbev.ch/uciv
+
+- **[KS19]** C. Killer, B. Stiller: The Swiss Postal Voting Process and Its System and Security Analysis. In: R. Krimmer, M. Volkamer, V. Cortier, B. Beckert, R. Küsters, U. Serdült, D.Duenas-Cid (eds.) Electronic Voting. Springer International Publishing, Cham, 2019, p. 134–149, Paper: http://pvpf.ch/paper
+
+- **[MK18]** R. Matile, C. Killer: Privacy, Verifiability, and Auditability in Blockchain-based E-Voting, 2018, Master’s Project, University of Zurich, http://bcbev.ch/pv
+
 - **[BT94]** Josh Benaloh and Dwight Tuinstra. Receipt-Free Secret-Ballot Elections. In Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing, STOC ’94, pages544–553, New York,NY, USA,1994. Association for Computing Machinery. 
 
 - **[CGS97]** Ronald Cramer, Rosario Gennaro, and Berry Schoenmakers. A secure andoptimally efficient multi- authority election scheme. InLecture Notes inComputer Science (including subseries Lecture Notes in Artificial Intelligenceand Lecture Notes in Bioinformatics), 1997.
