@@ -38,7 +38,7 @@ If everything is running smoothly so far, you can continue by following the tuto
 
 # References
 
--**[KRM20]** C. Killer, B. Rodrigues, R. Matile, E. Scheid, B. Stiller: Design and Implementation of Cast-as-Intended Verifiability for a Blockchain-based Voting System. In: Proceedings of the 2020 ACM Symposium on Applied Computing. SAC ’20, Association for Computing Machinery, New York, NY, USA, 2020. Paper: http://bcbev.ch/uciv
+- **[KRM20]** C. Killer, B. Rodrigues, R. Matile, E. Scheid, B. Stiller: Design and Implementation of Cast-as-Intended Verifiability for a Blockchain-based Voting System. In: Proceedings of the 2020 ACM Symposium on Applied Computing. SAC ’20, Association for Computing Machinery, New York, NY, USA, 2020. Paper: http://bcbev.ch/uciv
 
 - **[KS19]** C. Killer, B. Stiller: The Swiss Postal Voting Process and Its System and Security Analysis. In: R. Krimmer, M. Volkamer, V. Cortier, B. Beckert, R. Küsters, U. Serdült, D.Duenas-Cid (eds.) Electronic Voting. Springer International Publishing, Cham, 2019, p. 134–149, Paper: http://pvpf.ch/paper
 
