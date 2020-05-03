@@ -36,6 +36,12 @@ University of Zurich (UZH), Switzerland*
 
 If everything is running smoothly so far, you can continue by following the tutorial steps. 
 
+### Setting up a demo election on a remote VPS
+1. Make sure the image is [Docker-ready](https://marketplace.digitalocean.com/apps/docker), which saves you some time
+2. Follow the steps above for the local OS
+3. Use `ssh -D 5000 -C -q -N [REMOTE-IP]` to enable `-D` Dynamic application-level port forwarding, `-C` use compression, `-q` quiet mode, `-N` macOS specific (Do not execute a remote command.  This is useful for just forwarding ports.)
+4. Set up a proxy in your browser as shown in the screenshot here.
+
 # References
 
 - **[KRM20]** C. Killer, B. Rodrigues, R. Matile, E. Scheid, B. Stiller: Design and Implementation of Cast-as-Intended Verifiability for a Blockchain-based Voting System. In: Proceedings of the 2020 ACM Symposium on Applied Computing. SAC ’20, Association for Computing Machinery, New York, NY, USA, 2020. Paper: http://bcbev.ch/uciv
