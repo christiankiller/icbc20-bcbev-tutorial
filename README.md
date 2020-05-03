@@ -7,7 +7,7 @@ University of Zurich (UZH), Switzerland*
 
 ### Tutorial Materials
 - [Tutorial Slides (PDF, 1-up)](/assets/ICBC20-BCBEV-Tutorial-v8.pdf)
-- [Provotum 2.0 Code](https://github.com/christiankiller/master-project-evoting) 
+- [Provotum 2.0 Code (different repository)](https://github.com/christiankiller/master-project-evoting) 
 - [Provotum 2.0 Voting Protocol Steps (Videos)](/videos/)
 
 ### Disclaimer
