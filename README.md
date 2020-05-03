@@ -5,12 +5,10 @@ University of Zurich (UZH), Switzerland*
 
 **This is the official repository for Tutorial 2 *Practical Introduction to Blockchain-based Remote Electronic Voting* presented at the [2020 IEEE International Conference on Blockchain and Cryptocurrency Conference](https://icbc2020.ieee-icbc.org/).**
 
-### Materials
+### Tutorial Materials
 - [Tutorial Slides (PDF, 1-up)](/assets/ICBC20-BCBEV-Tutorial-v8.pdf)
-- [Tutorial Videos](/videos/)
 - [Provotum 2.0 Code](https://github.com/christiankiller/master-project-evoting) 
-- [Provotum 2.0 Project Report](https://github.com/christiankiller/master-project-evoting/blob/master/assets/report.pdf)
-- [Crypto Library Dependency](https://github.com/meck93/evote-crypto/)
+- [Provotum 2.0 Voting Protocol Steps (Videos)](/videos/)
 
 ### Disclaimer
 - Even though the full tutorial code is dockerized, it takes (a) some Docker expertise and (b) sufficient RAM and CPU to make it run smoothly on Linux or Windows. 
@@ -65,3 +63,7 @@ If everything is running smoothly so far, you can continue by following the tuto
 - **[FOO92]** Atsushi Fujioka, Tatsuaki Okamoto, and Kazuo Ohta. A Practical SecretVoting Scheme for Large Scale Elections. In Proceedings of the Workshop on the Theory and Application of Cryptographic Techniques: Advances in Cryptology, ASIACRYPT ’92, pages 244–251, Berlin, Heidelberg, 1992. Springer-Verlag.
 
 - **[JCJ05]** Ari Juels, Dario Catalano, and Markus Jakobsson. Coercion-ResistantElectronic Elections. InProceedings of the 2005 ACM Workshop on Privacy in the Electronic Society, WPES ’05, page 61–70, New York, NY, USA, 2005. Association for Computing Machinery.
+
+### Further Materials
+- [Provotum 2.0 Project Report](https://github.com/christiankiller/master-project-evoting/blob/master/assets/report.pdf)
+- [Crypto Library Dependency](https://github.com/meck93/evote-crypto/)
