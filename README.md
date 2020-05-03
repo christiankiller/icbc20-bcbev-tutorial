@@ -17,7 +17,7 @@ University of Zurich (UZH), Switzerland*
 - The practical part of the tutorial is [based on the code of Provotum 2.0](https://github.com/christiankiller/master-project-evoting), which was developed by [Moritz Eck](https://github.com/meck93), [Alex Scheitlin](https://github.com/alexscheitlin) and [Nik Zaugg](https://github.com/nikzaugg/) in the scope of their Master Project with the CSG@IfI.  
 
 ### Prerequisites
-- [Docker](https://docs.docker.com/)
+- [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/)
 - Make sure you create a [github.json](https://github.com/christiankiller/master-project-evoting#github-packages--github-config-json-important) with a valid access token, otherwise you won't be able to pull from GitHub packages
 
 ### Setting up a short demo election on your local OS
